@@ -91,7 +91,7 @@ html, body{
 }
 
 section#inicio {
-    background-image: url("./images/bannerPortifolio.png");
+    background-image: url("./images/IMG_20230224_114442_edit1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -170,6 +170,20 @@ i.menu-mobile{
     #main {
         margin-left: 0px;
     }
-
-
 }
+
+*::-webkit-scrollbar{
+    width: 10px;
+}
+
+*::-webkit-scrollbar-track{
+    width: 12px;
+    box-shadow: inset 0 0 .3rem #00000050;
+    background-color: #fff;
+}
+
+*::-webkit-scrollbar-thumb{
+    background-color: #252c90;
+}
+
+
