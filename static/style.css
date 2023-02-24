@@ -91,7 +91,7 @@ html, body{
 }
 
 section#inicio {
-    background-image: url("./images/IMG_20230224_114442_edit1.jpg");
+    background-image: url("./images/bannerPortifolio.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -186,4 +186,6 @@ i.menu-mobile{
     background-color: #252c90;
 }
 
-
+.section-bg{
+    background-color: #eff5ff;
+}
