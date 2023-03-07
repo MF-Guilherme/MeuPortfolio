@@ -337,3 +337,7 @@ i.menu-mobile{
     color: #34af23;
     
 }
+
+.whatsapp a p{
+    text-decoration: underline;
+}
