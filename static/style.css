@@ -22,9 +22,10 @@ html, body{
 #header .profile img {
     margin: 15px auto;
     display: block;
-    width: 120px;
+    width: 130px;
+    height: 110px;
     border: 8px solid #2c2f3f;
-    border-radius: 50%;
+    border-radius: 35%;
 }
 
 #header .profile h1 {
@@ -91,7 +92,7 @@ html, body{
 }
 
 section#inicio {
-    background-image: url("./images/bannerPortifolio.png");
+    background-image: url("./images/bannerPortifolio_rec.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
